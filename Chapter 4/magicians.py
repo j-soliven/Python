@@ -20,7 +20,7 @@ animals = ['dogs', 'cats', 'mice']
 
 for animal in animals:
     print(animal)
-print("Yeet")
+print("Cool")
 
 
 #------------------------------------------------------
@@ -35,7 +35,7 @@ even_numbers = list(range(2,13,5))
 print(even_numbers)
 
 
-
+print("printing n squares")
 squares = []
 for value in range(1,11):
     square = value**2
