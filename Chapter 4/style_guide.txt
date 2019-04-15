@@ -1,0 +1,3 @@
+-4 spaces per tab
+-less than 80 characters
+-1
