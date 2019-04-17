@@ -15,3 +15,4 @@ print(car != 'no')
 #multiple conditions - logical and operator
 
 print (car == 'test' and car.upper() == 'TEST')
+print (car == 'test')
