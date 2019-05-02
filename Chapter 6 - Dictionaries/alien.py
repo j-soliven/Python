@@ -24,3 +24,5 @@ print(alien_1)
 # removing key-value pair in dictionary
 del alien_1['points']
 print(alien_1)
+
+print(alien_1)
